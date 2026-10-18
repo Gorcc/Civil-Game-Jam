@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Citizen_Male_01_Blue_Shirt",
+    "triangles": 212,
+    "height_m": 1.78,
+    "meshes": 1
+  },
+  {
+    "name": "Citizen_Female_01_Red_Dress",
+    "triangles": 224,
+    "height_m": 1.66,
+    "meshes": 1
+  },
+  {
+    "name": "Citizen_Male_02_Green_Jacket",
+    "triangles": 224,
+    "height_m": 1.85,
+    "meshes": 1
+  },
+  {
+    "name": "Citizen_Female_02_Yellow_Top",
+    "triangles": 224,
+    "height_m": 1.72,
+    "meshes": 1
+  },
+  {
+    "name": "Citizen_Male_03_Orange_Workwear",
+    "triangles": 272,
+    "height_m": 1.81,
+    "meshes": 1
+  },
+  {
+    "name": "Citizen_Female_03_Purple_Skirt",
+    "triangles": 256,
+    "height_m": 1.61,
+    "meshes": 1
+  },
+  {
+    "name": "Citizen_Male_04_Navy_Suit",
+    "triangles": 227,
+    "height_m": 1.88,
+    "meshes": 1
+  },
+  {
+    "name": "Citizen_Female_04_Teal_Jacket",
+    "triangles": 224,
+    "height_m": 1.75,
+    "meshes": 1
+  },
+  {
+    "name": "Citizen_Male_05_Cream_Sweater",
+    "triangles": 212,
+    "height_m": 1.7,
+    "meshes": 1
+  },
+  {
+    "name": "Citizen_Female_05_Pink_Top",
+    "triangles": 248,
+    "height_m": 1.68,
+    "meshes": 1
+  }
+]

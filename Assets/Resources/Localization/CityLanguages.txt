@@ -1,0 +1,700 @@
+# Turkish =|= English. {0} placeholders preserve live values. Damage exposure is not occurrence probability.
+AYARLAR =|= SETTINGS
+Genel Ses (Master) =|= Master Volume
+Müzik =|= Music
+Ses Efektleri (SFX) =|= Sound Effects (SFX)
+Arayüz Ölçeği =|= UI Scale
+Dil =|= Language
+Kapat =|= Close
+Vazgeç =|= Cancel
+Yakında =|= Coming Soon
+Türkçe =|= Türkçe
+English =|= English
+Belediye Başkanlığı =|= Mayor's Office
+BELEDİYE BAŞKANLIĞI =|= MAYOR'S OFFICE
+Belediye Başkanı =|= Mayor
+Şehir ve Yönetici Kaydı =|= City and Mayor Registration
+Göreve hoş geldiniz! Şehrinizin ve belediye başkanının adını girin. Bu adlar gazetelerde ve haberlerde kullanılacak. =|= Welcome to office! Enter your city's name and the mayor's name. These names will appear in newspapers and news broadcasts.
+Örn. İzmir, Marmara... =|= e.g. Riverdale, Brookhaven...
+Örn. Eylül, Deniz... =|= e.g. Alex, Taylor...
+Afet Şehri yönetimine hoş geldiniz. Yönettiğiniz şehrin ismini ve kendi adınızı belirleyiniz. Bu bilgiler haftalık kararlar gazetesinde (The Times) ve resmi bültenlerde kullanılacaktır. =|= Welcome to your city administration. Enter your city's name and your own name. They will appear in The Times and official bulletins.
+ŞEHİR İSMİ =|= CITY NAME
+BELEDİYE BAŞKANI ADI =|= MAYOR'S NAME
+Örn: Afet, İzmir, Marmara... =|= E.g. Afet, Izmir, Marmara...
+Örn: Eylül, Başkan... =|= E.g. Alex, Taylor...
+GÖREVE BAŞLA (KAYDET) =|= TAKE OFFICE (SAVE)
+ŞEHRİ =|= CITY
+BÜTÇE =|= BUDGET
+MEMNUNİYET =|= HAPPINESS
+EŞİK =|= THRESHOLD
+NÜFUS =|= POPULATION
+İŞ GÜCÜ =|= WORKFORCE
+AFET HASAR ORANI =|= DISASTER DAMAGE EXPOSURE
+GÜN =|= DAY
+DURAKLATILDI =|= PAUSED
+Sel =|= Flood
+Yangın =|= Fire
+Deprem =|= Earthquake
+Fırtına =|= Storm
+Ocak =|= January
+Şubat =|= February
+Mart =|= March
+Nisan =|= April
+Mayıs =|= May
+Haziran =|= June
+Temmuz =|= July
+Ağustos =|= August
+Eylül =|= September
+Ekim =|= October
+Kasım =|= November
+Aralık =|= December
+Pazar =|= Sunday
+Pazartesi =|= Monday
+Salı =|= Tuesday
+Çarşamba =|= Wednesday
+Perşembe =|= Thursday
+Cuma =|= Friday
+Cumartesi =|= Saturday
+Gece/Gündüz: Açık =|= Day/Night: On
+Gece/Gündüz: Kapalı =|= Day/Night: Off
+Konutlar =|= Housing
+Konut =|= Apartment
+Apartman =|= Apartment
+Müstakil Ev =|= Detached House
+Lüks Villa =|= Luxury Villa
+Villa =|= Villa
+İtfaiye =|= Fire Station
+Hastane =|= Hospital
+Toplanma Alanı =|= Assembly Area
+Toplanma alanı =|= Assembly area
+Mahalle Parkı =|= Neighborhood Park
+Göletli Park =|= Pond Park
+Üniversite =|= University
+Afet Araştırma Merkezi =|= Disaster Research Center
+Araştırma Merkezi =|= Research Center
+Fabrika =|= Factory
+Plaj Tesisi =|= Beach Resort
+Park =|= Park
+Bina =|= Building
+tek katlı =|= single story
+lüks =|= luxury
+Yangın koruması =|= Fire protection
+Sağlık · yaralıları tedavi eder =|= Healthcare · treats injuries
+Afette güvenli toplanma alanı =|= Safe disaster assembly area
+Yeşil alan =|= Green space
+Eğitim =|= Education
+Sanayi =|= Industry
+Turizm =|= Tourism
+Nüfus ve kira getirir. =|= Provides housing and rental income.
+Az kişi, çok sağlam. =|= Low occupancy, high resilience.
+Az sakin, yüksek kira. =|= Few residents, high rent.
+Yangınları söndürür. =|= Puts out fires.
+Yaralıları tedavi eder. =|= Treats injured residents.
+Depremde halkın gideceği güvenli alan. =|= A safe assembly area during earthquakes.
+Memnuniyeti artırır. =|= Improves happiness.
+Daha büyük park, daha çok memnuniyet. =|= A larger park brings greater happiness.
+Memnuniyet ve öğrenim geliri. =|= Happiness and tuition income.
+Yüksek gelir, ama halk kirlilikten hoşlanmaz. =|= High income, but pollution lowers happiness.
+Turizm geliri. Sadece kıyı arsaları. =|= Tourism income. Coastal plots only.
+BİNA DİK =|= BUILD
+Bina Dik =|= Build
+İNŞAAT ALANI =|= CONSTRUCTION SITE
+SATILIK ARSA =|= LAND FOR SALE
+BOŞ ARSA =|= EMPTY PLOT
+Kalan süre =|= Time remaining
+Yıkılıyor... =|= Demolishing...
+Arsa değeri =|= Land value
+Arsa fiyatı =|= Land price
+Arazi fiyatı =|= Land price
+Satın al =|= Buy
+Deprem etkisi =|= Earthquake impact
+İnşaat maliyeti =|= Construction cost
+Bina dayanıklılığı =|= Building resilience
+İnşa edilemez  ·  Kurutulamaz =|= Cannot build · Cannot drain
+ÇEVRE ARSALARA ETKİSİ =|= EFFECT ON NEARBY PLOTS
+4 arsa · sağlam zemin =|= 4 plots · firm ground
+Orman temizlenir, çevresine yol döşenir. Arsalar hemen inşaata hazır olur. Her yeni arazi bir öncekinden pahalıdır. =|= Clears the forest and builds connecting roads. Plots are ready for construction. Each expansion costs more than the previous one.
+konumu =|= location
+İtfaiye yalnızca yakın çevresindeki binalara yardım götürebilir. Buraya inşa etmek istediğine emin misin? =|= This fire station can only help buildings within its service area. Are you sure you want to build here?
+Toplanma alanı yalnızca yakın çevresindeki sakinleri kabul edebilir. Buraya inşa etmek istediğine emin misin? =|= This assembly area can only receive nearby residents. Are you sure you want to build here?
+Evet, buraya inşa et =|= Yes, build here
+Tam kadro gelir =|= Daily income (fully staffed)
+Günlük gelir =|= Daily income
+Günlük gider =|= Daily upkeep
+çalışan ister =|= workers required
+Memnuniyet =|= Happiness
+Dayanıklılık =|= Resilience
+İnşaat =|= Construction
+Depreme dayanıklılık =|= Earthquake resilience
+SAKİNLER =|= RESIDENTS
+Doluluk =|= Occupancy
+ÇALIŞAN =|= STAFF
+HİZMET =|= SERVICE
+GÜNLÜK NET =|= DAILY NET
+GÜÇLENDİRME =|= REINFORCEMENT
+Seviye =|= Level
+AKSİYONLAR =|= ACTIONS
+Onar =|= Repair
+Afet hasarını giderir =|= Repairs disaster damage
+Kira değişmez =|= Rent unchanged
+Afet hasarı yok =|= No disaster damage
+Güçlendir =|= Reinforce
+Güçlendirme sürüyor =|= Reinforcement in progress
+Zaten tam dayanıklı =|= Already fully reinforced
+Kat çık =|= Add floor
+Güçlendirme bitmeden olmaz =|= Wait for reinforcement to finish
+Kira artar =|= Increases rent
+Yık =|= Demolish
+sakin taşınır =|= residents must relocate
+Memnuniyet düşer =|= Reduces happiness
+Hizmet kaybolur =|= Removes this service
+Esc · kapat =|= Esc · close
+KAT =|= FLOORS
+YAŞINDA =|= YEARS OLD
+verim =|= efficiency
+sakin =|= residents
+kira =|= rent
+bakım =|= upkeep
+Bakım =|= Upkeep
+Kira =|= Rent
+Güçlendirme =|= Reinforcement
+Çok riskli =|= Critical
+Riskli =|= Vulnerable
+Orta =|= Fair
+Sağlam =|= Sound
+Kumsal =|= Beach
+Bataklık =|= Swamp
+Sağlam zemin =|= Firm ground
+Deniz manzarası kirayı artırır ama kumlu zemin sarsıntıyı büyütür. =|= Sea views increase rent, but sandy ground amplifies earthquake shaking.
+Ucuz ve kolay inşa edilir ama yumuşak zemin depremde sıvılaşır. =|= Cheap and easy to build on, but soft ground can liquefy in an earthquake.
+Verimli, sağlam toprak. Depremde en güvenli zemin. =|= Firm, fertile ground. The safest terrain during earthquakes.
+pahalı =|= more expensive
+ucuz =|= cheaper
+yüksek =|= higher
+düşük =|= lower
+Arsa =|= Plot
+arsa =|= plot
+KALICI ALAN =|= PERMANENT TERRAIN
+BÜTÇE DÖKÜMÜ =|= BUDGET BREAKDOWN
+MEMNUNİYET DÖKÜMÜ =|= HAPPINESS BREAKDOWN
+NÜFUS DÖKÜMÜ =|= POPULATION BREAKDOWN
+DEPREM HASAR ORANI =|= EARTHQUAKE DAMAGE EXPOSURE
+SEL HASAR ORANI =|= FLOOD DAMAGE EXPOSURE
+YANGIN HASAR ORANI =|= FIRE DAMAGE EXPOSURE
+Şehir verileri henüz hazır değil. =|= City data is not ready yet.
+Mevcut bütçe =|= Current budget
+Günlük gelir ve giderler =|= Daily income and upkeep
+Henüz günlük gelir veya gider yok. =|= No daily income or upkeep yet.
+Günlük net toplam =|= Daily net total
+Son 3 günün işlemleri =|= Transactions over the last 3 days
+Son 3 günde işlem yok. =|= No transactions in the last 3 days.
+Mevcut memnuniyet =|= Current happiness
+Mevcut memnuniyetin kaynakları =|= Sources of current happiness
+Önceki günler ve olaylardan kalan etki =|= Carryover from previous days and events
+Toplam =|= Total
+Son 3 günün değişimleri =|= Changes over the last 3 days
+Dönem başındaki memnuniyet =|= Opening happiness
+Son 3 günde değişim yok. =|= No changes in the last 3 days.
+Toplam nüfus =|= Total population
+Yaşam dağılımı =|= Housing distribution
+Geçici barınma / yakınlarının yanı =|= Temporary accommodation / staying with relatives
+Kararlardan gelen nüfus =|= Population from policies
+Nüfus sayım düzeltmesi =|= Population reconciliation
+İş dağılımı =|= Employment distribution
+İş gücü henüz hesaplanmadı. =|= Workforce has not been calculated yet.
+Çalışan toplam =|= Total employed
+İş arayan =|= Seeking work
+İş gücüne katılmayan =|= Outside the workforce
+Doldurulamayan iş =|= Unfilled jobs
+Hasar oranı =|= Damage exposure
+Hasar oranının kaynakları =|= Sources of damage exposure
+Yangın kayıpları =|= Fire losses
+Devam eden yangın =|= Active fire
+Yangın hasarı =|= Fire damage
+Deprem hasarı =|= Earthquake damage
+Fırtına hasarı =|= Storm damage
+İhmal edilen bakım =|= Neglected maintenance
+Bina onarımı =|= Building repairs
+Günlük memnuniyet dengesi =|= Daily happiness adjustment
+Diğer bütçe değişimi =|= Other budget change
+Günlük kira ve bakım =|= Daily rent and upkeep
+Temel memnuniyet =|= Base happiness
+Hastane hizmeti =|= Hospital service
+İtfaiye hizmeti =|= Fire station service
+Yapı etkileri sınır düzeltmesi =|= Building effect limit adjustment
+Barınma bekleyen sakinler =|= Residents awaiting housing
+0–100 sınır düzeltmesi =|= 0–100 limit adjustment
+Diğer karar etkileri =|= Other policy effects
+Başlangıç deprem riski =|= Base earthquake damage exposure
+Yapıların temel dayanıklılığı =|= Base structural resilience
+Ek katlar =|= Additional floors
+Bina yaşı =|= Building age
+Yapısal hasar =|= Structural damage
+Güçlendirmeler =|= Reinforcements
+Zemin dayanıklılığı =|= Ground resilience
+Bina dayanıklılığı sınırları =|= Building resilience limits
+Temel risk sınırları =|= Base damage exposure limits
+Temel yangın riski =|= Base fire damage exposure
+İtfaiye bulunması =|= Fire station availability
+Temel sel riski =|= Base flood damage exposure
+Temizlenmemiş kuru ot ve ölü ağaçlar =|= Uncleared dry grass and dead trees
+Temizlenmemiş çöp birikintileri =|= Uncollected litter
+Bakım bekleyen elektrik tesisatı =|= Faulty electrical equipment
+0–100 risk sınırı =|= 0–100 damage exposure limit
+geliri =|= income
+bakımı =|= upkeep
+inşaatı =|= construction
+hasarı =|= damage
+riski =|= damage exposure
+Araştırma =|= Research
+Araştırma tamamlandı =|= Research completed
+Yapı Güçlendirme Teknikleri =|= Structural Reinforcement Techniques
+Şehirdeki güçlendirme ve tamir maliyetleri %15 düşer. =|= Reduces citywide reinforcement and repair costs by 15%.
+Akıllı Drenaj Sistemi =|= Smart Drainage System
+Yollara yağmur suyu ızgaraları ve rögarlar döşenir; fırtınadan sonra sel oluşmaz. =|= Installs storm drains and manholes along roads, preventing flooding after storms.
+Sürüyor =|= In progress
+gün kaldı =|= days remaining
+çalışan yetersiz, durdu =|= paused due to insufficient staff
+Laboratuvar hazır · bir araştırma seç =|= Laboratory ready · choose a project
+Çalışan yetersiz: araştırma için en az {0} kişi gerekli =|= Insufficient staff: at least {0} workers are needed for research
+Araştırmalar bütün şehre kalıcı etki eder. Aynı anda tek proje yürür; ilerleme için merkezin en az yarı kadro çalışması gerekir. =|= Research provides permanent citywide benefits. One project can run at a time; the center must be at least half staffed to progress.
+Tamamlandı · etkin =|= Completed · active
+Başka araştırma sürüyor =|= Another project is in progress
+Araştır =|= Research
+Yeni araştırmalar yolda. =|= More research is coming.
+SEL · Sokaklar su altında =|= FLOOD · Streets are underwater
+Drenaj devrede · sular çekiliyor =|= Drainage active · water is receding
+Günlük gelir durdu · Drenaj araştırması seli tamamen önler =|= Daily income suspended · drainage research prevents flooding
+Pompalar çalışıyor =|= Pumps are operating
+Pompa gönder =|= Deploy pumps
+BAKIM UYARILARI =|= MAINTENANCE ALERTS
+Kuru ot ve ölü ağaç temizliği =|= Dry Grass and Dead Tree Clearance
+Çöp birikintisi =|= Litter Pile
+Elektrik tesisatı arızası =|= Electrical Fault
+İhmal =|= Neglect
+Müdahale için =|= Time to respond
+Ekip müdahale ediyor =|= Crew working
+İncele =|= Inspect
+Uyarı: Yangın hasar oranını 10 puan artırıyor. =|= Warning: Adds 10 points to fire damage exposure.
+Uyarı: Yangın ve sel hasar oranlarını 10'ar puan artırıyor. =|= Warning: Adds 10 points to both fire and flood damage exposure.
+Onarılınca bu ek etki kalkar. =|= This extra exposure is removed after repairs.
+Temizlenince bu ek etkiler kalkar. =|= This extra exposure is removed after cleanup.
+Bakım bedeli =|= Maintenance cost
+Bekletilirse {0} gün sonra günlük -{1} memnuniyet. =|= After {0} days of neglect: -{1} happiness per day.
+Ekip yolda / çalışıyor =|= Crew on the way / working
+Yetersiz bütçe =|= Insufficient funds
+Tüm ekipler meşgul =|= All crews are busy
+Ekip gönder =|= Send crew
+Kuru ot temizliği oluşturuldu. Otların üzerine tıklayarak ekip gönderebilirsin. =|= Dry grass clearance spawned. Click the grass to send a crew.
+Ot temizliği modeli yüklenemedi. =|= Could not load the dry grass model.
+Bakım görevi sınırı dolu. Önce mevcut görevlerden birini tamamla. =|= Maintenance task limit reached. Complete an existing task first.
+Uygun sahipli normal parsel yok. İnşaat ve bakım görevi olmayan bir parsel gerekiyor. =|= No suitable owned plot. A firm-ground plot without construction or an existing maintenance task is needed.
+AFET TESTLERİ =|= DISASTER TESTS
+AFET RAPORU =|= DISASTER REPORT
+Hazır =|= Ready
+Devam =|= Continue
+Hasarlı binalar =|= Damaged buildings
+Yıkılan binalar =|= Collapsed buildings
+Yıkılmadan kaçanlar =|= Escaped before collapse
+Toplanma alanına tahliye =|= Evacuated to shelter
+Hastanede kurtarılanlar =|= Rescued by hospitals
+Can kaybı =|= Population lost
+Müdahale eden itfaiye =|= Engine responding
+İtfaiye kapsamı dışında =|= Outside fire coverage
+RESMİ GAZETE =|= NEWSPAPER
+HAFTANIN İNŞAATLARI =|= THIS WEEK'S CONSTRUCTION
+HAFTANIN OLAYLARI =|= THIS WEEK'S EVENTS
+HAFTANIN BÜTÇESİ =|= THIS WEEK'S BUDGET
+HALKIN GÖRÜŞÜ =|= PUBLIC OPINION
+YAPI GÜVENLİĞİ =|= BUILDING SAFETY
+AFETE HAZIRLIK =|= DISASTER PREPAREDNESS
+BARINMA =|= HOUSING
+HAVA =|= WEATHER
+HABERLER =|= NEWS
+SON DAKİKA =|= BREAKING NEWS
+FLAŞ HABER =|= NEWS FLASH
+Bu hafta yürürlüğe giren kararlar =|= Policies enacted this week
+Tamamlanan yapılar =|= Completed buildings
+Haftalık bütçe değişimi =|= Weekly budget change
+Memnuniyet bu hafta {0} puan arttı. =|= Happiness increased by {0} points this week.
+Memnuniyet bu hafta {0} puan azaldı. =|= Happiness decreased by {0} points this week.
+Şehirdeki {0} binanın {1} tanesi depreme karşı dayanıksız. Güçlendirme gerekiyor. =|= {1} of the city's {0} buildings are vulnerable to earthquakes. Reinforcement is needed.
+Sel hazırlıkları yetersiz: Beklenen hasar oranı %{0}. Yağmur suyu ve menfez temizliği öneriliyor. =|= Flood defenses are inadequate: expected damage exposure is {0}%. Storm drain cleaning is recommended.
+Faaliyette itfaiye yok. =|= No operational fire station.
+Yangın önlemleri artırılmalı. =|= Fire protection needs improvement.
+Yangında beklenen hasar oranı %{0}. =|= Expected fire damage exposure is {0}%.
+{0} kişi kalıcı konut bekliyor. =|= {0} residents are waiting for permanent housing.
+Faaliyette toplanma alanı bulunmuyor. =|= No operational assembly area is available.
+Bölgede sismik hareketlilik izleniyor. Yapı güvenliği ve toplanma alanları kontrol edilmeli. =|= Seismic activity is being monitored. Check structural safety and assembly areas.
+Fırtına ve kuvvetli yağış bekleniyor. Sel hazırlıkları gözden geçirilmeli. =|= A storm and heavy rain are forecast. Review flood preparations.
+{0} bilançosu: {1} bina yıkıldı, {2} bina hasar gördü, {3} can kaybı. =|= {0} report: {1} buildings collapsed, {2} were damaged and {3} lives were lost.
+{0} sonrası: {1} binada hasar tespit edildi, can kaybı yok. =|= After the {0}: {1} buildings were damaged; no lives were lost.
+{0} sonrası: Şehirde hasar yok, ekipler teyakkuzda. =|= After the {0}: no city damage; emergency crews remain on alert.
+HAFTALIK BASKI =|= WEEKLY EDITION
+SAYI =|= ISSUE
+KARARI İMZALA =|= SIGN THE DECISION
+YETERSİZ BÜTÇE =|= INSUFFICIENT FUNDS
+ONAYLANDI =|= APPROVED
+Bütçe =|= Budget
+Deprem riski =|= Earthquake damage
+Sel riski =|= Flood damage
+Yangın riski =|= Fire damage
+Süre =|= Duration
+BELEDİYE HİZMETLERİ =|= MUNICIPAL SERVICES
+AFET HAZIRLIĞI & ÖNLEM =|= DISASTER PREPAREDNESS
+TARTIŞMALI & RİSKLİ KARARLAR =|= CONTROVERSIAL POLICIES
+POLİTİKA =|= POLICY
+Yeni mahalle =|= New neighborhood
+Şehir dışı arazi =|= City expansion land
+Diğer =|= Other
+günlük =|= daily
+memnuniyet =|= happiness
+puan =|= points
+kişi =|= people
+Gün =|= Day
+gün =|= day
+sn =|= sec
+sürer =|= duration
+boşta =|= available
+iş boş =|= unfilled jobs
+boş yer =|= free spaces
+Ana arterlerdeki ve mahalle yollarındaki derin çukurları onararak vatandaşların günlük ulaşım konforunu ve memnuniyetini artırır. =|= Repairs potholes on main roads and neighborhood streets, improving daily travel and public happiness.
+Mahalle aralarına banklar, yürüyüş parkurları ve çocuk oyun alanları içeren yeşil parklar inşa ederek yaşam kalitesini yükseltir. =|= Builds neighborhood parks with benches, walking paths and playgrounds to improve quality of life.
+Temizlik ekiplerini seferber ederek cadde ve meydanları baştan aşağı yıkar, çöp toplama sıklığını iki katına çıkarır. =|= Mobilizes cleaning crews to wash streets and squares and doubles the frequency of waste collection.
+Yerleşim alanlarına modern ve enerji tasarruflu LED sokak lambaları takarak gece güvenliğini artırır, suç oranını düşürür. =|= Installs modern, energy-efficient LED streetlights in residential areas to improve nighttime safety and reduce crime.
+Şehir kütüphanesinin kitap koleksiyonlarını günceller, gençlere 7/24 modern etüt salonları ve kafeterya geliri açar. =|= Updates the public library's collection, adds study rooms open around the clock and generates cafe income.
+Hafta sonu müzik, sanat ve yöresel lezzet festivali düzenleyerek hem halkın moralini hem de yerel çarşı esnafını canlandırır. =|= Hosts a weekend festival of music, art and local food to boost public morale and local businesses.
+Şehrin ana meydanları, parkları ve otobüs duraklarında halkın ücretsiz bağlanabileceği yüksek hızlı kablosuz internet noktaları kurar. =|= Installs free high-speed wireless internet in public squares, parks and bus stops.
+Sokaktaki can dostlarımız için modern barınaklar, otomatik mama/su istasyonları ve ücretsiz veteriner bakım merkezleri inşa eder. =|= Builds shelters, automatic food and water stations and free veterinary clinics for stray animals.
+Tüm hanelerin deprem/afet çantası hazırlamasını zorunlu kılar. Vatandaşlar bu ekstra harcama ve denetimden yakınır. =|= Requires every household to prepare an emergency kit. Residents object to the extra cost and inspections.
+Şehir genelinde sirenlerle tahliye tatbikatı düzenler. Yerel esnaf ve fabrikalar kayıp çalışma saatlerinden şikayet eder. =|= Runs a citywide evacuation drill with sirens. Shops and factories complain about lost working hours.
+Dayanıksız ve eski binaların temel/kolon güçlendirmesini yapan bina sahiplerine belediye bütçesinden doğrudan hibe desteği sunar. =|= Offers municipal grants to owners reinforcing the foundations and columns of old or vulnerable buildings.
+İtfaiye personeli sayısını ve nöbetçi vardiyalarını artırır, fazla mesai ücretlerini karşılayarak yangınlara yıldırım müdahale sağlar. =|= Expands fire department staffing and shifts, funding overtime to support faster emergency response.
+Kuvvetli yağış sezonu öncesi tüm dere yatakları, drenaj kanalları ve mazgallardaki birikintileri temizleyerek taşkınları önler. =|= Clears stream beds, drainage channels and storm drains before the rainy season to reduce flood damage.
+Şehirdeki tüm apartman bloklarına onaylı yangın söndürme tüpleri ve duman sensörleri ücretsiz olarak dağıtılır. =|= Distributes approved fire extinguishers and smoke detectors to apartment buildings free of charge.
+Boş arazileri temizleyip aydınlatma, su deposu ve gece parlayan tabelalarla resmi ve güvenli toplanma alanları haline getirir. =|= Converts vacant land into official assembly areas with lighting, water tanks and illuminated signs.
+Jeoloji mühendislerini görevlendirerek şehirdeki tüm fay kırıklarını ve zemin sıvılaşma risklerini parsel parsel haritalandırır. =|= Commissions geological engineers to map fault lines and soil liquefaction hazards plot by plot.
+Ruhsatsız ve kaçak katları ağır harç bedelleri karşılığında affeder. Belediye kasası hızla dolar, halk sevinir ancak deprem riski fırlar! =|= Legalizes unlicensed buildings and floors in exchange for hefty fees. Revenue and public support rise, but earthquake damage exposure increases sharply!
+Vatandaşları ve tüccarları yanına çekmek için yerel vergi ve harçları geçici olarak indirir; belediyenin günlük bütçe akışı azalır. =|= Temporarily cuts local taxes and fees to win public and business support, reducing daily municipal income.
+Nüfusu ve kira gelirlerini hızla katlamak için yüksek yoğunluklu konut projelerine bürokratik güvenlik denetimlerini esneterek izin verir. =|= Relaxes safety inspections for high-density housing projects to rapidly increase population and rental income.
+Kamu hizmeti ve altyapı bakım harcamalarını acımasızca kısarak kasaya hemen nakit kazandırır; halkı ve personeli öfkelendirir. =|= Slashes public service and infrastructure maintenance spending for immediate savings, angering residents and staff.
+Ekonomik durgunluk yaşayan çarşı ve dükkan sahiplerine belediye kasasından doğrudan can suyu nakit hibesi dağıtır. =|= Provides direct municipal cash grants to shops and market traders struggling with an economic slowdown.
+Şehrin dört bir yanına belediye başkanlığının başarısını ve sözde kusursuz güvenlik önlemlerini öven dev propaganda afişleri astırır. =|= Displays giant billboards praising the mayor's achievements and supposedly flawless safety measures.
+Bu haftaki harcamaları kısmak adına eski ve şüpheli binaların zorunlu statik ve beton denetimlerini belirsiz bir tarihe erteler. =|= Indefinitely postpones mandatory structural and concrete inspections of aging or suspect buildings to cut spending.
+Gelecekte park veya toplanma alanı olabilecek kamuya ait boş bir rezerv arsayı acil nakit için özel müteahhitlere satar. =|= Sells public reserve land that could become a park or assembly area to private developers for immediate cash.
+Müteahhitlerin güvenlik incelemelerine takılmadan binalara ekstra kat çıkmalarına belediye ruhsat geliri karşılığı izin verir. =|= Lets developers add floors without safety reviews in exchange for municipal permit fees.
+Yaralanma Oranı =|= Injury Rate
+Afet Riski =|= Disaster Damage Exposure
+Tahliye Hızı =|= Evacuation Speed
+Temel Direnci Artar =|= Increases Foundation Resilience
+Yangına Müdahale Hızı =|= Fire Response Speed
+Sel & Su Baskını Hasarı =|= Flood Damage
+Yangın Hasarı =|= Fire Damage
+Tüm Arsalardaki Gizli Zemin Risklerini Açar =|= Reveals Hidden Ground Hazards on All Plots
+Bina Kırılganlığı Ciddi Artar =|= Greatly Increases Structural Vulnerability
+Günlük Belediye Geliri =|= Daily Municipal Income
+Hizmet Verimi =|= Service Efficiency
+Bina Aşınma Hızı Artar =|= Increases Building Deterioration
+Gelecekteki Genişleme Alanı =|= Future Expansion Land
+Gün Boyunca Günlük Gelir =|= Days of Daily Income
+Sağlık =|= Healthcare
+yaralıları tedavi eder =|= treats injuries
+Afette güvenli =|= Safe during disasters
+toplanma alanı =|= assembly area
+Tam kadro =|= Fully staffed
+Çalışan yetersiz =|= Insufficient staff
+Toplanma alanına çevir =|= Convert to assembly area
+En yüksek katta =|= Maximum floors reached
+Maksimum kat =|= Maximum floors
+Üst sınır =|= Limit
+Bekleniyor =|= Waiting
+işçi =|= workers
+mahalle =|= neighborhood
+Mahalle =|= Neighborhood
+Nüfus =|= Population
+Günlük Gelir =|= Daily Income
+Günlük Gider =|= Daily Upkeep
+Yok =|= None
+En fazla {0} kat =|= Maximum {0} floors
+{0} gün sürer =|= Takes {0} days
+{0} kişi =|= {0} people
+{0} gün =|= {0} days
+{0} sn =|= {0} sec
+Araçlar yolda... =|= Vehicles on the way...
+Kat çıkma =|= Additional floor
+Yıkım =|= Demolition
+Arsa satın alındı =|= Land purchased
+dönüşümü =|= conversion
+Test parası =|= Test funds
+SATILIK ARAZİ =|= LAND FOR SALE
+Acil sel pompaları =|= Emergency flood pumps
+Diğer karar gelirleri =|= Other policy income
+Kentsel Acil Durum Merkezi =|= CITY EMERGENCY OFFICE
+ŞEHRE ETKİSİ =|= IMPACT ON THE CITY
+Hasar gören binalar =|= Buildings damaged
+Yıkılan bina sayısı =|= Buildings collapsed
+Binalardan kaçanlar =|= Escaped buildings
+Toplanma alanına ulaşanlar =|= Reached shelter
+Hastanede kurtarılanlar =|= Hospital rescues
+Kaybedilen canlar =|= Lives lost
+Raporu onayla =|= Acknowledge report
+RAPOR =|= REPORT
+DOLU =|= FULL
+KAPSAMA ALANI =|= Coverage radius
+Onarım gerekli =|= Repair required
+{0} kişi taşınmalı; yer yoksa nüfus kaybı olur =|= {0} occupants must relocate; no space means population loss
+Yangın kaybı =|= Fire losses
+Devam eden yangın =|= Active fire
+Deprem hasarı =|= Earthquake damage
+Fırtına hasarı =|= Storm damage
+İhmal edilen bakım =|= Neglected maintenance
+Bina onarıldı =|= Building repaired
+ŞEHİR BÜYÜYOR: Belediye şehir dışında yeni arazi satın aldı, yeni mahalle imara açıldı. =|= CITY EXPANSION: The municipality purchased new land outside the city and opened a new neighborhood for development.
+İnşa edilemez, kurutulamaz. Çevresindeki arsalar bataklık zeminine sahip. =|= Cannot be built on or drained. Surrounding plots have swampy ground.
+DRENAJ İŞ BAŞINDA: Fırtınanın ardından yağmur suyu ızgaralardan tahliye edildi, şehirde sel yaşanmadı. =|= DRAINAGE AT WORK: Storm drains carried the rainwater away after the storm, preventing city flooding.
+SEL SONA ERDİ: Sular çekildi, yollar trafiğe açıldı, günlük gelir geri döndü. =|= FLOOD OVER: Water has receded, roads have reopened and daily income has resumed.
+SEL UYARISI: Fırtına sonrası sokaklar su altında. Yollar kapalı, günlük gelir =|= FLOOD ALERT: Streets are flooded after the storm. Roads are closed and daily income is
+arttı. =|= increased.
+azaldı. =|= decreased.
+SON DAKİKA: {0} büyüklüğünde deprem hissedildi. =|= BREAKING NEWS: A magnitude {0} earthquake was felt.
+SON DAKİKA: {0} büyüklüğünde deprem! Vatandaşlar toplanma alanlarına yönlendiriliyor. =|= BREAKING NEWS: Magnitude {0} earthquake! Residents are being directed to assembly areas.
+SON DAKİKA: Fırtına şehri vurdu! Vatandaşlar dışarı çıkmamalı. =|= BREAKING NEWS: A storm has hit the city! Residents should stay indoors.
+SON DAKİKA: Kandilli'den uyarı! Bölgede büyük deprem riski arttı. =|= BREAKING NEWS: Seismologists warn of increased earthquake activity in the region.
+SON DAKİKA: Şehirde yangın çıktı! İtfaiye ekipleri yolda. =|= BREAKING NEWS: A fire has broken out in the city! Firefighters are on the way.
+Uzmanlar: Fay hattındaki hareketlilik azaldı, büyük deprem riski şimdilik geriledi. =|= Experts report reduced fault activity; the earthquake alert has eased for now.
+BİLİM =|= SCIENCE
+araştırması tamamlandı =|= research completed
+projesine başladı =|= project started
+BİLGİ =|= INFO
+kararının geçici süresi doldu =|= temporary policy has expired
+Sayın Başkan =|= The Mayor
+kararını imzalayarak yürürlüğe koydu =|= signed and enacted the policy
+Belediye =|= Municipality
+OY ORANI =|= APPROVAL
+Şehir Sakini =|= Residents
+KRİZ YÖNETİMİ =|= CRISIS MANAGEMENT
+KALICI SULAK ALAN =|= PERMANENT WETLAND
+Yeni =|= New
+Yeni daireler =|= New apartments
+Sakinler tahliye edildi =|= Residents evacuated
+Hasarlı binaları onar, bir sonraki afetten önce dayanıksız konutları güçlendir. =|= Repair damaged buildings and reinforce vulnerable homes before the next disaster.
+Yapısal hasar bildirilmedi. Acil durum ekiplerini hazır tut. =|= No structural damage reported. Keep emergency services ready.
+Son hasar değerlendirmesi =|= Final impact assessment
+sona erdi =|= ended
+RAPORLAR =|= REPORTS
+bina =|= building(s)
+İtfaiye müdahale ediyor =|= Engine responding
+Kapsama yarıçapı =|= Coverage radius
+{0} bina =|= {0} building(s)
+{0} sakin =|= {0} residents
+{0} boşta =|= {0} available
+{0} iş boş =|= {0} unfilled jobs
+{0} gün kaldı =|= {0} days remaining
+Afet araştırmaları yapar; maliyet düşüren teknolojiler geliştirir. =|= Researches disasters and develops technologies that reduce costs.
+GÖREV DÖNEMİ =|= TERM OF OFFICE
+Araştırma Merkezi · Teknoloji =|= Research Center · Technology
+Oyuna Başla =|= Start Game
+Ayarlar =|= Settings
+Çıkış =|= Quit
+ÖĞRETİCİ =|= TUTORIAL
+Öğreticiyi yeniden başlat =|= Restart tutorial
+Öğreticiyi atla =|= Skip tutorial
+Bu adımı geç =|= Skip this step
+Başlayalım =|= Let's begin
+Göreve devam et =|= Take charge
+Adımı tamamla =|= Complete this step
+Gazeteyi aç =|= Open newspaper
+Sayın Başkan, hoş geldiniz! =|= Welcome, Mayor!
+Şehrini tanı =|= Get to know your city
+Halkın desteğini koru =|= Keep public support
+Bütçeni yönet =|= Manage your budget
+İlk konutunu inşa et =|= Build your first home
+Güvenli büyü =|= Grow safely
+Küçük ihmalleri önle =|= Prevent small hazards
+Hizmetin yeri önemli =|= Location matters
+İlk başkanlık kararın =|= Your first policy decision
+Şehir artık sana emanet =|= The city is in your hands
+Afetlere açık bu şehrin yeni seçilmiş belediye başkanısın. Halkın desteğini korurken bütçeyi yönetmeli ve şehri tehlikelere hazırlamalısın. =|= You are the newly elected mayor of this disaster-prone city. Keep public support, manage your budget and prepare your city for danger.
+WASD ile hareket et, Q/E ile dön ve fare tekerleğiyle yakınlaş. Şehri incelemek için kamerayı biraz hareket ettir. =|= Move with WASD, rotate with Q/E and zoom with the mouse wheel. Move the camera a little to explore your city.
+Seçilmek başlangıçtı. Görevde kalmak için halkın desteğini korumalısın. Memnuniyet göstergesine tıkla ve hangi etkilerin desteği değiştirdiğini gör. =|= Winning the election was just the start. Keep public support to stay in office. Click Happiness to see what affects it.
+Halkın memnuniyeti oy oranını gösterir. Bir sonraki seçimde oy oranın %50'nin altındaysa seçimi kaybedersin. Memnuniyet göstergesine tıkla ve hangi etkilerin desteği değiştirdiğini gör. =|= Public happiness represents your vote share. If your vote share is below 50% at the next election, you lose. Click the happiness indicator to see what affects public support.
+Binalar gelir getirir, hizmetlerin günlük giderleri vardır. Bütçe göstergesine tıklayarak gelir ve gider dökümünü aç. =|= Buildings generate income and services have daily costs. Click Budget to open the income and upkeep breakdown.
+İşaretli arsaya tıkla ve bir konut inşa et. Apartman nüfus, müstakil dayanıklılık, villa ise yüksek kira ve memnuniyet sağlar. İnşaatın tamamlanmasını bekle. =|= Click the marked plot and build a home. Apartments provide population, detached homes offer resilience, and villas bring high rent and happiness. Wait for construction to finish.
+İşaretli binaya tıkla; dayanıklılığı ve güçlendirme seçeneğini incele. Ek katlar kapasiteyi artırır ama dayanıklılığı azaltır. Şimdilik para harcaman gerekmiyor. =|= Click the marked building to inspect its resilience and reinforcement option. Extra floors increase capacity but reduce resilience. You do not need to spend money yet.
+Sağdaki bakım uyarısında İncele'ye bas, haritadaki kuru otlara tıkla ve ekip gönder. Temizlik tamamlanınca yangın ve sel hasar oranlarındaki ek yük kalkar. =|= Click Inspect in the maintenance alert on the right, then click the dry grass on the map and send a crew. Cleanup removes the added fire and flood damage exposure.
+Bir itfaiye inşa et. Onaydan önce açılan çember, hangi binalara yardım götürebileceğini gösterir. Toplanma alanları da yalnız yakın çevreye hizmet verir. =|= Build a fire station. The circle shown before confirmation marks its service area. Assembly areas also serve only nearby residents.
+Gazeteyi aç, üç kararın bütçe ve memnuniyet etkilerini karşılaştırıp birini imzala. Popüler olmak ve afetlere hazırlanmak her zaman aynı seçim değildir. =|= Open the newspaper, compare the budget and happiness effects of three policies and sign one. Popularity and disaster preparedness do not always go hand in hand.
+Karar gazetesi iki haftada bir gelir. Gazeteyi aç, üç kararın bütçe ve memnuniyet etkilerini karşılaştırıp birini imzala. Popüler olmak ve afetlere hazırlanmak her zaman aynı seçim değildir. =|= The policy newspaper arrives every two weeks. Open it, compare the budget and happiness effects of three policies and sign one. Popularity and disaster preparedness do not always go hand in hand.
+Haftalık haberler yaptıklarını ve şehrin durumunu özetler. Halkı dinle, bütçeyi izle ve afetlere hazırlan. Başarılar, Sayın Başkan! =|= Weekly news summarizes your actions and the city's condition. Listen to residents, watch the budget and prepare for disasters. Good luck, Mayor!
+Görevde kalma eşiği =|= Minimum support to stay in office
+İncelenecek bina yok. Bir sonraki adıma geçebilirsin. =|= There are no buildings to inspect. You can continue to the next step.
+Şehrinde zaten bir itfaiye var. Kapsama çemberini inceleyip devam edebilirsin. =|= Your city already has a fire station. Inspect its coverage circle and continue.
+Hazır olduğunda Gazeteyi aç düğmesine bas. =|= Press Open newspaper when you are ready.
+Uygun boş arsa yok. Bu adımı geçebilir veya başka bir arsada yer açabilirsin. =|= No suitable empty plot is available. You can skip this step or free another plot.
+Bakım sistemi hazır değil. Bu adımı geçebilirsin. =|= The maintenance system is not ready. You can skip this step.
+Uygun bakım alanı yok. Bu adımı geçebilirsin. =|= No suitable maintenance site is available. You can skip this step.
+
+Asfalt Yenileme Çalışması =|= Asphalt Renovation
+Mahalle Parkı Geliştirme =|= Neighborhood Park Development
+Şehir Çapında Temizlik Seferberliği =|= City-Wide Cleanliness Campaign
+Sokak Aydınlatması Modernizasyonu =|= Street Lighting Upgrade
+Halk Kütüphanesi Genişletmesi =|= Public Library Expansion
+Toplumsal Kültür Festivali =|= Community Cultural Festival
+Ücretsiz Şehir Wi-Fi Ağı =|= Public Wi-Fi Expansion
+Sokak Hayvanlarını Koruma Girişimi =|= Stray Animal Care Initiative
+Acil Durum Afet Çantası Zorunluluğu =|= Emergency Backpack Mandate
+Zorunlu Şehir Tahliye Tatbikatı =|= Mandatory Evacuation Drill
+Bina Güçlendirme Hibesi =|= Structural Retrofitting Subsidy
+İtfaiye Vardiya & Nöbet Artırımı =|= Fire Department Shift Expansion
+Yağmur Suyu & Menfez Temizliği =|= Storm Drain & Drainage Cleaning
+Yangın Tüpü & Dedektör Dağıtımı =|= Fire Extinguisher Distribution Campaign
+Acil Toplanma Alanı Donatımı =|= Emergency Assembly Point Signage
+Jeolojik Zemin Etüdü ve Fay Taraması =|= Geological Soil Survey
+İmar Barışı ve Kaçak Yapı Affı =|= Urban Zoning Amnesty
+Acil Belediye Vergi İndirimi =|= Emergency Tax Cut
+Hızlı Konut İnşaat Teşviki =|= Rapid Housing Incentive
+Belediye Tasarruf & Kemer Sıkma Paketi =|= Municipal Austerity Package
+Yerel Esnaf Can Suyu Destek Paketi =|= Merchant Support Package
+Acil Reklam ve Billboard Kampanyası =|= Emergency Billboard Campaign
+Yapı Denetimlerini Erteleme =|= Postpone Infrastructure Inspections
+Belediye Rezerv Arazisi Satışı =|= Sell Municipal Reserve Land
+Kat Artırımı ve Yoğunluk İzni =|= High-Density Permit Waiver
+Gelir =|= Income
+Gider =|= Upkeep
+Çalışan =|= Workers
+tam kadro =|= fully staffed
+{0} BELEDİYE BAŞKANI SEÇİLDİ! =|= {0} ELECTED MAYOR!
+ÖZEL BASKI  ·  {0}  ·  SEÇİM SONUÇLARI =|= SPECIAL EDITION  ·  {0}  ·  ELECTION RESULTS
+%{0} oyla seçilen yeni başkan, {1} için ilk sözünü verdi: "Bu şehri afetlere hazırlayacağız." =|= Elected with %{0} of the vote, the new mayor made a first promise to {1}: "We will prepare this city for disasters."
+Seçmen memnuniyeti oy oranınızdır. {0} ay sonraki seçimde en az %{1} oy alamazsanız görevden düşersiniz. =|= Voter approval is your vote share. Win at least %{1} in the election {0} months from now, or you are out of office.
+GÖREVE BAŞLA =|= TAKE OFFICE
+SEÇİM GECESİ =|= ELECTION NIGHT
+{0} Belediye Başkanlığı · {1}. dönem =|= {0} Mayoral Election · Term {1}
+{0} (siz) =|= {0} (you)
+Açılan sandık: %{0} =|= Ballots counted: %{0}
+Açılan sandık: %100 · Kesin olmayan sonuçlar =|= Ballots counted: 100% · Unofficial results
+Açılan sandık: %100 =|= Ballots counted: 100%
+SEÇİMİ KAZANDINIZ! =|= YOU WON THE ELECTION!
+SEÇİMİ KAYBETTİNİZ =|= YOU LOST THE ELECTION
+GÖREVE DEVAM =|= STAY IN OFFICE
+OYUN BİTTİ =|= GAME OVER
+{0} görevden düştü =|= {0} is out of office
+Seçimi %{0} oyla {1} karşısında kaybettiniz. Seçmenler şehrin yönetiminden memnun değildi. =|= You lost to {1} with %{0} of the vote. Voters were unhappy with how the city was run.
+GÖREVDE =|= IN OFFICE
+{0} gün · {1} dönem =|= {0} days · {1} terms
+EN YÜKSEK NÜFUS =|= PEAK POPULATION
+YAPILAN BİNA =|= BUILDINGS BUILT
+YAŞANAN AFET =|= DISASTERS
+YIKILAN BİNA · CAN KAYBI =|= COLLAPSED · CASUALTIES
+YENİDEN BAŞLA =|= PLAY AGAIN
+OY ORANI · SEÇİME {0} GÜN =|= APPROVAL · ELECTION IN {0} DAYS
+OY ORANI · EŞİK %{0} =|= APPROVAL · THRESHOLD %{0}
+SON DAKİKA: {0}, %{1} oyla {2} belediye başkanı seçildi! =|= BREAKING: {0} elected mayor of {2} with %{1} of the vote!
+{0} %{1} oyla belediye başkanı seçildi! =|= {0} elected mayor with %{1} of the vote!
+Yeni başkan ilk iş olarak şehrin afet hazırlığını inceleyecek. =|= The new mayor's first task: reviewing the city's disaster readiness.
+SEÇİM =|= ELECTION
+SEÇİM YAKLAŞIYOR: Belediye seçimlerine {0} gün kaldı. Rakip aday {1} kampanyaya başladı. =|= ELECTION AHEAD: {0} days until the mayoral election. Challenger {1} has launched a campaign.
+Seçimlere {0} gün kaldı: anketlerde Başkan %{1} oyda. =|= {0} days to the election: polls put the mayor at %{1}.
+Rakip aday {0}: "Bu şehir afetlere hazır değil!" =|= Challenger {0}: "This city is not ready for disasters!"
+SEÇİM SONUÇLARI: {0} %{1} oyla yeniden seçildi. =|= ELECTION RESULTS: {0} re-elected with %{1} of the vote.
+{0} %{1} oyla yeniden seçildi! =|= {0} re-elected with %{1} of the vote!
+Bir sonraki seçim {0} ay sonra. =|= The next election is in {0} months.
+Seçim yap =|= Run election
+İnsanlar ve işler =|= People and jobs
+Burası bir afet bölgesi =|= This is a disaster-prone city
+Bu şehir deprem, sel ve yangına açık. Sağdaki yüzdeler afetin gerçekleşme ihtimalini değil, gerçekleştiğinde şehrin ne kadar ağır hasar alabileceğini gösterir. Yüksek değer, daha savunmasız bir şehir demek. Afetlere dayanıklı bir şehir kurmazsan tüm emeğin bir felaketle boşa gidebilir. Deprem, sel veya yangın göstergesine tıkla ve hasar oranının kaynaklarını incele. =|= This city is exposed to earthquakes, floods and fires. The percentages on the right indicate how severely the city could be damaged when a disaster strikes, rather than the chance of it happening. Higher values mean a more vulnerable city. Unless you build for resilience, one disaster could undo all your hard work. Click the earthquake, flood or fire indicator to inspect the sources of damage exposure.
+Konut tamamlandı! Nüfus: {0} → {1} ({2} kişi). =|= Housing complete! Population: {0} → {1} ({2} people).
+Yeni sakinler şehrin iş gücüne katılır. Nüfus göstergesinden yeni dağılımı inceleyebilirsin. =|= New residents join the city's workforce. Check the population indicator to see the updated distribution.
+Nüfus göstergesine tıkla; insanların nerede yaşadığını ve çalıştığını incele. Örneğin fabrika kurduğunda yeterli boşta çalışan yoksa tüm kadrosu dolmaz ve geliri azalır. Yeni konutlar iş gücünü artırır; yeni iş yerleri ise bu çalışanları paylaşır. =|= Click the population indicator to see where people live and work. For example, if you build a factory without enough available workers, some positions stay vacant and its income drops. New homes expand the workforce; new workplaces share those workers.
+SULAK ALAN =|= WETLAND
+Çevresindeki arsalar bataklık zeminine sahip. =|= Surrounding plots have swampy ground.
+BATAKLIĞI KALDIR =|= REMOVE THE SWAMP
+Her iki seçenekte de çevre arsaların zemini sağlamlaşır. =|= Either way, the ground of nearby plots becomes solid.
+Temiz sulak alan  {0} =|= Clean wetland  {0}
+Kurut, 4 arsa aç  {0} =|= Drain into 4 plots  {0}
+Doğa parkı olarak kalır · +{0} memnuniyet =|= Stays a nature park · +{0} happiness
+Dört sağlam zeminli arsa olur =|= Becomes four plots on solid ground
+Doğa parkı  ·  4 arsa =|= Nature park · 4 plots
+Temiz Sulak Alan =|= Clean Wetland
+DOĞAL PARK =|= NATURE PARK
+Temiz sulak alan =|= Clean wetland
+Bataklık kurutma =|= Swamp drainage
+Bataklık kurutuldu =|= Swamp drained
+Kuşlar ve nilüferlerle dolu bir doğa parkı. Şehrin en sevilen gezi alanı. =|= A nature park full of birds and water lilies. The city's favourite place for a walk.
+DOĞA KAZANDI: Belediye bataklığı temizledi, şehre kuşlarla dolu bir sulak alan parkı kazandırıldı. =|= NATURE WINS: The city cleaned up the swamp and opened a wetland park full of birds.
+BATAKLIK KURUTULDU: Doldurulan alanda dört yeni arsa imara açıldı, çevre arsaların zemini sağlamlaştı. =|= SWAMP DRAINED: Four new plots opened on the filled land, and the ground around it is now solid.
+Dalgakıran =|= Breakwater
+Kıyı açıklarına dalgakıranlar inşa edilir; sel 1,5 gün kısa sürer. Drenajla birlikte sel hiç oluşmaz. =|= Breakwaters are built offshore; floods last 1.5 days less. Together with drainage, floods never happen.
+Yollara yağmur suyu ızgaraları ve rögarlar döşenir; sel 1,5 gün kısa sürer. =|= Storm drains and manholes are laid along the roads; floods last 1.5 days less.
+SEL ÖNLENDİ: Dalgakıranlar dalgaları kesti, yağmur suyu drenajdan tahliye edildi. Şehirde sel yaşanmadı. =|= FLOOD PREVENTED: The breakwaters held back the waves and the drains carried the rain away. The city stayed dry.
+SEL UYARISI: Fırtına sonrası sokaklar su altında. Yollar kapalı, gelir {0} gün boyunca duruyor ve acil durum giderleri başladı. =|= FLOOD ALERT: Streets are under water after the storm. Roads are closed, income stops for {0} days and emergency costs have begun.
+Sel: gelirler durdu =|= Flood: income stopped
+Sel acil durum gideri ({0} kişi × {1}) =|= Flood emergency cost ({0} residents × {1})
+Gelir durdu · Günde −{0} acil durum gideri =|= Income stopped · −{0} emergency cost per day
+SEL · Sokaklar su altında · {0} gün =|= FLOOD · Streets under water · {0} days
+DEPREM RAPORU =|= EARTHQUAKE REPORT
+YANGIN RAPORU =|= FIRE REPORT
+FIRTINA RAPORU =|= STORM REPORT
+{0} yıkık · {1} hasarlı =|= {0} collapsed · {1} damaged
+{0} hasarlı bina =|= {0} damaged buildings
+Hasar yok =|= No damage
++{0} rapor sırada =|= +{0} more reports waiting
+SANDIKTAN YENİ BİR DÖNEM ÇIKTI =|= A NEW TERM BEGINS
+BAŞKANIN İLK SÖZÜ =|= THE MAYOR'S FIRST PLEDGE
+“Bu şehri afetlere hazırlayacağız.” =|= “We will prepare this city for disasters.”
+SANDIK SONUCU =|= AT THE BALLOT BOX
+HALKIN DESTEĞİ =|= PUBLIC SUPPORT
+BU DÖNEMİ KARARSIZ GEÇ =|= SKIP THIS ROUND WITHOUT A POLICY
+Afetlerde yaralıları tedavi eder: deprem, yangın ve seldeki can kaybını %45 azaltır. Her ek hastane +%10 (en fazla %75). =|= Treats the injured in disasters: cuts earthquake, fire and flood deaths by 45%. Each extra hospital +10% (up to 75%).
+Sağlık · afet can kaybını azaltır =|= Healthcare · fewer disaster deaths
+Yangınları söndürür. Kapsama alanındaki yangınlarda yaralı sayısı 4 kat azalır. =|= Puts out fires. Fires inside its coverage injure 4 times fewer people.
+Yangın koruması · daha az yaralı =|= Fire protection · fewer injured
+CANLI · SEÇİM ÖZEL =|= LIVE · ELECTION SPECIAL
+{0} sandık başında! {1} ile {2} arasındaki yarışta oy sayımı başlıyor. =|= {0} goes to the polls! Vote counting begins in the race between {1} and {2}.
+Tümünü kapat =|= Dismiss all
+Deprem hasarı =|= Earthquake damage
+Sel süresi =|= Flood length
+Yangın kaybı =|= Fire losses
+Seçimi %{0} oyla {1} karşısında kaybettiniz. Kazanmak için en az %{2} gerekiyordu. Seçmenler şehrin yönetiminden memnun değildi. =|= You lost to {1} with {0}% of the vote. You needed at least {2}% to win. Voters were unhappy with how the city was run.
+AÇILIŞ TEŞVİKİ −%{0} =|= OPENING INCENTIVE −{0}%
+ERKEN HAZIRLIK −%{0} · {1} gün =|= EARLY PREP −{0}% · {1} days
+Normal fiyat {0} =|= Normal price {0}
+Bataklık: ucuz ama depremde {0} kat sert sarsılır, binalar {1} dayanıklılıkla başlar. =|= Swamp: cheap, but earthquakes hit {0}x harder and buildings start at {1} resilience.
+İlk araştırma ücretsiz · {0} gün =|= First research free · {0} days
+Ücretsiz araştır =|= Research for free
+Menfezler temiz · {0} gün · sel −1 gün =|= Drains clean · {0} days · floods −1 day
+Menfez temizliği {0} · {1} gün sel −1 =|= Clean drains {0} · floods −1 for {1} days
+MENFEZLER TEMİZLENDİ: Önümüzdeki {0} günde sel 1 gün kısa sürecek. =|= DRAINS CLEANED: Floods will be 1 day shorter for the next {0} days.
+ŞEHİR BANKASI =|= CITY BANK
+Acil kredi teklifi =|= Emergency loan offer
+Kasa neredeyse boş. Banka belediyeye bir kerelik acil kredi öneriyor. Geri ödeme her gün gelirden otomatik düşülür ve günlük bütçede "Kredi ödemesi" olarak görünür. =|= The treasury is almost empty. The bank offers the city a one-time emergency loan. Repayment is taken from income every day and shows up as "Loan payment" in the daily budget.
+Kredi tutarı =|= Loan amount
+Günlük taksit =|= Daily installment
+Toplam geri ödeme =|= Total repayment
+Krediyi al =|= Take the loan
+Hayır, teşekkürler =|= No, thanks
+Kredi ödemesi ({0} gün kaldı) =|= Loan payment ({0} days left)
+KREDİ: Belediye {0} acil kredi aldı; {1} gün boyunca günde {2} geri ödenecek. =|= LOAN: The city took a {0} emergency loan; {2} a day will be paid back for {1} days.
+KREDİ KAPANDI: Belediye acil kredinin son taksitini ödedi. =|= LOAN CLOSED: The city paid the last installment of the emergency loan.
+Sel: gelirler durdu =|= Flood: income stopped
+Menfez temizliği =|= Drain cleaning
+Acil kredi =|= Emergency loan
+{0}/gün · kredi {1} gün =|= {0}/day · loan {1} days
+Afet sonrası yeniden yapılanma kredisi =|= Post-disaster reconstruction loan
+Nakit sıkışıklığı kredisi =|= Cash crunch loan
+Afette {0} bina yıkıldı, {1} can kaybı var. Banka şehrin toparlanması için düşük faizli bir kredi öneriyor. Taksitler her gün gelirden düşülür ve günlük bütçede "Kredi ödemesi" olarak görünür. =|= The disaster destroyed {0} buildings and cost {1} lives. The bank offers a low-interest loan to help the city recover. Installments are taken from income every day and show up as "Loan payment" in the daily budget.
+Şehir {0} gündür zararda ve kasa neredeyse boş. Banka bir kredi öneriyor ama faizi yüksek. Taksitler her gün gelirden düşülür ve günlük bütçede "Kredi ödemesi" olarak görünür. =|= The city has been losing money for {0} days and the treasury is almost empty. The bank offers a loan, but the interest is high. Installments are taken from income every day and show up as "Loan payment" in the daily budget.
+Faiz =|= Interest
+KREDİ: Belediye {0} kredi aldı; {1} gün boyunca günde {2} geri ödenecek. =|= LOAN: The city took a {0} loan; {2} a day will be paid back for {1} days.
+KREDİ KAPANDI: Belediye kredinin son taksitini ödedi. =|= LOAN CLOSED: The city paid the last installment of the loan.
+Kredi =|= Loan
+BÜTÇE · KREDİ {0} GÜN =|= BUDGET · LOAN {0} DAYS
+BİLİM: Afet Araştırma Merkezi "{0}" projesine başladı. =|= SCIENCE: The Disaster Research Center started the "{0}" project.
+BİLİM: "{0}" araştırması tamamlandı. {1} =|= SCIENCE: "{0}" research completed. {1}
+| BİLGİ: '{0}' kararının geçici süresi doldu. | =|= | INFO: The temporary policy '{0}' has expired. |
+| RESMİ GAZETE: Sayın Başkan '{0}' kararını imzalayarak yürürlüğe koydu! | =|= | OFFICIAL GAZETTE: The mayor signed '{0}' into effect! |
+Bu hafta yürürlüğe giren kararlar: {0}. =|= Policies enacted this week: {0}.
+Tamamlanan yapılar: {0}. =|= Completed buildings: {0}.
+Haftalık bütçe değişimi: {0}. =|= Weekly budget change: {0}.
+Sıradaki Haber... =|= Next story...
+YENİ SAKİNLER: Bu hafta şehre {0} kişi taşındı. =|= NEW RESIDENTS: {0} people moved to the city this week.

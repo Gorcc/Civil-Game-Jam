@@ -1,0 +1,38 @@
+[
+  {
+    "name": "TV_Frame",
+    "triangles": 476
+  },
+  {
+    "name": "News_Background_General",
+    "triangles": 3599
+  },
+  {
+    "name": "TV_News_General",
+    "triangles": 4075
+  },
+  {
+    "name": "News_Background_Storm",
+    "triangles": 3583
+  },
+  {
+    "name": "TV_News_Storm",
+    "triangles": 4059
+  },
+  {
+    "name": "News_Background_Earthquake",
+    "triangles": 3693
+  },
+  {
+    "name": "TV_News_Earthquake",
+    "triangles": 4169
+  },
+  {
+    "name": "News_Background_Fire",
+    "triangles": 3679
+  },
+  {
+    "name": "TV_News_Fire",
+    "triangles": 4155
+  }
+]

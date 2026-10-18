@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Breakwater_Straight",
+    "triangles": 2140
+  },
+  {
+    "name": "Breakwater_End",
+    "triangles": 1948
+  },
+  {
+    "name": "Breakwater_Complete",
+    "triangles": 4088
+  }
+]

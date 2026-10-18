@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1eb7dd3df8e5434bae6e490756a90c1, type: 3}
+  m_Name: GameAudioLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::GameAudioLibrary
+  mixer: {fileID: 24100000, guid: 605013d16ca94ce4d81fd7c3366c5254, type: 2}
+  musicGroup: {fileID: 1933891065645190043, guid: 605013d16ca94ce4d81fd7c3366c5254, type: 2}
+  sfxGroup: {fileID: -3112432457586263135, guid: 605013d16ca94ce4d81fd7c3366c5254, type: 2}
+  background: {fileID: 8300000, guid: f92d0867f3318db4c877cfce0f1d8fdf, type: 3}
+  collapse: {fileID: 8300000, guid: 31cea7a4da5a558498165579bee1ff0c, type: 3}
+  construction: {fileID: 8300000, guid: 03f48f52020b1e74a9f8b847dc9ca3ec, type: 3}
+  crowdScream: {fileID: 8300000, guid: 1c80b93cd7f65a2488d7d2ad9e341745, type: 3}
+  earthquake: {fileID: 8300000, guid: 644363ff3b3d2af48b5e79b1a533b933, type: 3}
+  fire: {fileID: 8300000, guid: 7ee2624902d968b45b72f6f67f631033, type: 3}
+  paper: {fileID: 8300000, guid: 54ef34c55ee864446880a2d1393d4ca4, type: 3}
+  policeSiren: {fileID: 8300000, guid: 67f49186751a85a468a362a71124ea20, type: 3}
+  tap: {fileID: 8300000, guid: 88d6ede124ba4b04aa75ca18defc1715, type: 3}
+  tap2: {fileID: 8300000, guid: 149c1d2ab6d721744ae7878f0ccd1023, type: 3}
+  sea: {fileID: 8300000, guid: c2ddb40bd4efc8948897bf465b254bb8, type: 3}
+  communitySigh: {fileID: 8300000, guid: c9a6888c89a4f63439b03c4da85688e0, type: 3}
+  communityHappy: {fileID: 8300000, guid: 8b945ed7e7200e346881bea4b86cd23f, type: 3}
+  coin: {fileID: 8300000, guid: 1510611f8bb1e864fbdbb4a981afb2c2, type: 3}
+  notification: {fileID: 8300000, guid: 1b523ba32a9ae0a408226c28d6ae387c, type: 3}
+  tvOn: {fileID: 8300000, guid: 2c9a6cd151812464fbe129a9294992db, type: 3}
+  tvOff: {fileID: 8300000, guid: d8a7101ba96f5d24c817461a60e62a82, type: 3}
+  maleGrunt: {fileID: 8300000, guid: 72cfe5dc5ce07004aa96d42caa47d881, type: 3}
+  flood: {fileID: 8300000, guid: 686bbc3caa542bf4e826876669f5e70f, type: 3}

@@ -1,0 +1,56 @@
+# Unity: regenerated on open, never committed
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/tmp/
+
+# IDE / generated solution files
+.vs/
+.vscode/
+.idea/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Plastic SCM (this project is also in Plastic)
+.plastic/
+ignore.conf
+
+# Crash / build reports, OS files
+sysinfo.txt
+crashlytics-build.properties
+*.apk
+*.aab
+*.unitypackage
+.DS_Store
+Thumbs.db
+
+# Stray copies of Unity package sources in the project root (not part of the game)
+/ComputeCommandBuffer.cs
+/IBaseCommandBuffer.cs
+/IComputeCommandBuffer.cs
+/IRasterCommandBuffer.cs
+/IUnsafeCommandBuffer.cs
+/RasterCommandBuffer.cs
+/UnsafeCommandBuffer.cs

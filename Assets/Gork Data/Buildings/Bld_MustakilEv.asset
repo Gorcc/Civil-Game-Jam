@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d8c58b0e32f5a14b9d222241092f4d3, type: 3}
+  m_Name: Bld_MustakilEv
+  m_EditorClassIdentifier: Assembly-CSharp::BuildingDefinition
+  displayName: "M\xFCstakil Ev"
+  instanceName: "M\xFCstakil Ev"
+  service: 1
+  accentColor: {r: 0.93, g: 0.62, b: 0.28, a: 1}
+  description: "Az ki\u015Fi, \xE7ok sa\u011Flam."
+  cost: 200000
+  placeholderColor: {r: 0.93, g: 0.62, b: 0.28, a: 1}
+  prefab: {fileID: 8544947979806319271, guid: d1b00adf0d92cd14095b5d86974f97e0, type: 3}
+  groundModule: {fileID: 0}
+  floorModule: {fileID: 0}
+  roofModule: {fileID: 0}
+  residentialPalettes: []
+  quadModules: 1
+  floorHeight: 5
+  buildTime: 6
+  defaultFloors: 1
+  maxFloors: 1
+  role: "Konut \xB7 tek katl\u0131"
+  residentsPerFloor: 6
+  rentPerResident: 900
+  flatIncome: 0
+  workersNeeded: 0
+  happinessEffect: 2
+  placement: 0
+  baseUpkeep: 1200
+  upkeepPerFloor: 0
+  baseResistance: 85
+  resistancePerExtraFloor: 0
+  resistancePerReinforcement: 15
+  rentBonusPerReinforcement: 0.1
+  reinforceCostPerFloor: 0.1
+  reinforceDays: 3
+  addFloorCost: 0.2
+  demolishCost: 0.05
+  emergencyCapacity: 50
+  emergencyRadius: 85

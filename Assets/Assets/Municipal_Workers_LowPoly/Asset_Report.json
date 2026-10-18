@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Municipal_Worker_01_Orange_Vest",
+    "triangles": 404,
+    "height_m": 1.8,
+    "meshes": 1
+  },
+  {
+    "name": "Municipal_Worker_02_Lime_Vest",
+    "triangles": 392,
+    "height_m": 1.7,
+    "meshes": 1
+  },
+  {
+    "name": "Municipal_Worker_03_Yellow_Vest",
+    "triangles": 380,
+    "height_m": 1.85,
+    "meshes": 1
+  }
+]
